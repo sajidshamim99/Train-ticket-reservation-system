@@ -57,9 +57,9 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 2. Register New User
 ![Screenshot 2023-10-15 003648](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/94596474-1c0d-4b33-b457-794a2455d179)
 
+
 3. User Profile
 ![Screenshot 2023-10-15 004705](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/db8b4af7-da78-45b4-9f84-928fbc2fad3f)
-
 
 
 4. Search Trains Between Stations
@@ -70,21 +70,25 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 ![Screenshot 2023-10-15 001931](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/a5cdff8c-b586-4b55-a712-76a786db58d3)
 
 
-7. Book Trains
+6. Train Details
+![Screenshot 2023-10-15 015630](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/5a86a74d-4c60-4746-8d00-2d384c65d5ae)
+   
+
+8. Book Trains
 ![Screenshot 2023-10-15 002531](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/25778897-4705-4e34-b018-f8fd67b0e4ca)
 
-8. Payment Gateway
+9. Payment Gateway
 ![Screenshot 2023-10-15 002813](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/3e3cd564-acc5-4f4a-9282-1fb818324be6)
 
-9. Booked Ticket Information
+10. Booked Ticket Information
 ![Screenshot 2023-10-15 002750](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/08624be2-9563-4b2f-bcb7-ed3a4179638e)
 
 
-10. Ticket Booking History
+11. Ticket Booking History
 ![Screenshot 2023-10-15 002834](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/c7c4e84e-639c-45ef-bd68-db89fd21e893)
 
 
-11. Fare Enquiry
+12. Fare Enquiry
 ![Screenshot 2023-10-15 004025](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/005a5304-0fb4-4fac-ada7-541588c51e38)
 
 
