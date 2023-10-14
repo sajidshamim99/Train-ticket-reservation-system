@@ -55,37 +55,52 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 
 
 2. Register New User
-<img width="100%" alt="Register New User" src="https://user-images.githubusercontent.com/34605595/232219485-2b00949a-be20-44f7-b6c1-107213221f94.png">
+![Screenshot 2023-10-15 003648](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/94596474-1c0d-4b33-b457-794a2455d179)
 
 3. User Profile
-<img width="100%" alt="View User Profile" src="https://user-images.githubusercontent.com/34605595/232219729-2720e50f-e14b-4253-831a-85c59e3054b3.png">
+![Screenshot 2023-10-15 004705](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/db8b4af7-da78-45b4-9f84-928fbc2fad3f)
+
+
 
 4. Search Trains Between Stations
-<img width="100%" alt="Search Trains Between Stations" src="https://user-images.githubusercontent.com/34605595/232220357-54b634d6-afae-427c-b3af-57b372b70906.png">
+![Screenshot 2023-10-15 003919](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/f29555fc-67c2-4b15-989a-add64e3f1022)
+
 
 5. View Trains
-<img width="100%" alt="View Available Trains" src="https://user-images.githubusercontent.com/34605595/232219905-983eeefe-977b-40ad-a695-4ec577272dcc.png">
+![Screenshot 2023-10-15 001931](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/a5cdff8c-b586-4b55-a712-76a786db58d3)
+
 
 7. Book Trains
-<img width="100%" alt="Book Trains Project" src="https://user-images.githubusercontent.com/34605595/232220107-415b251f-90b9-4e70-aff8-e94d370927f6.png">
+![Screenshot 2023-10-15 002531](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/25778897-4705-4e34-b018-f8fd67b0e4ca)
 
 8. Payment Gateway
-<img width="100%" alt="Pay to Book Trains" src="https://user-images.githubusercontent.com/34605595/232220744-351c2c6d-e1f6-49ad-a11b-7680aa63dbe3.png">
+![Screenshot 2023-10-15 002813](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/3e3cd564-acc5-4f4a-9282-1fb818324be6)
 
 9. Booked Ticket Information
-<img width="100%" alt="Show Booked Ticket Details" src="https://user-images.githubusercontent.com/34605595/232220935-654bda38-cbde-4203-84b8-3078a32ac6ec.png">
+![Screenshot 2023-10-15 002750](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/08624be2-9563-4b2f-bcb7-ed3a4179638e)
+
 
 10. Ticket Booking History
-<img width="100%" alt="All Ticket Booking History" src="https://user-images.githubusercontent.com/34605595/232220491-3e7996cb-a54c-4375-a35a-6ab1d211a001.png">
+![Screenshot 2023-10-15 002834](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/c7c4e84e-639c-45ef-bd68-db89fd21e893)
+
 
 11. Fare Enquiry
-<img alt="Fare Enquiry between stations" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/fareenquiry.png" width="100%">
+![Screenshot 2023-10-15 004025](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/005a5304-0fb4-4fac-ada7-541588c51e38)
 
-12. Change Password
-<img alt="Change user Password" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/passwordchange.png" width="100%">
 
-13. Add Trains By Admin
-<img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
+13. Seat Availability
+![Screenshot 2023-10-15 004212](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/5fd4db57-6bef-4f63-b94e-7a2552232e7e)
 
+
+14. Change Password
+![Screenshot 2023-10-15 004349](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/d97c3328-a15f-4389-a749-71e3aac87372)    
+
+
+15. Update Trains by Admin
+![Screenshot 2023-10-15 004938](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/4a09b094-3cee-4ed3-8d35-f861a0ddc41b)
+
+
+16. Add Trains by Admin
+![Screenshot 2023-10-15 004906](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/2f4491ff-69d4-45e8-b462-469d84290153)
 
 
