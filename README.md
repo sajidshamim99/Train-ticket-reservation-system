@@ -51,7 +51,8 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 ### The Screenshots of some of the  webPages of this project are Here:
 
 1. Login Page
-<img width="100%" alt="Login to Book Trains" src="https://user-images.githubusercontent.com/34605595/232219369-85b55a1d-6640-4821-941a-dcca08036fbe.png">
+![Screenshot 2023-10-15 003532](https://github.com/sajidshamim99/Train-ticket-reservation-system/assets/147682141/17af6716-718f-45d0-a677-2bc48c60c075)
+
 
 2. Register New User
 <img width="100%" alt="Register New User" src="https://user-images.githubusercontent.com/34605595/232219485-2b00949a-be20-44f7-b6c1-107213221f94.png">
