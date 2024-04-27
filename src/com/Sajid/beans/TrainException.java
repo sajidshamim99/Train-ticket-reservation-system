@@ -2,7 +2,7 @@ package com.sajid.beans;
 
 import java.io.IOException;
 
-import com.shashi.constant.ResponseCode;
+import com.sajid.constant.ResponseCode;
 
 public class TrainException extends IOException {
 
