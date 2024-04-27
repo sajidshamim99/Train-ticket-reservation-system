@@ -1,12 +1,12 @@
-package com.shashi.utility;
+package com.sajid.utility;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.ResourceBundle;
 
-import com.shashi.beans.TrainException;
-import com.shashi.constant.ResponseCode;
+import com.sajid.beans.TrainException;
+import com.sajid.constant.ResponseCode;
 
 public class DBUtil {
 	private static Connection con;
