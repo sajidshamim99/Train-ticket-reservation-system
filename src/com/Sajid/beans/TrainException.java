@@ -1,4 +1,4 @@
-package com.shashi.beans;
+package com.sajid.beans;
 
 import java.io.IOException;
 
